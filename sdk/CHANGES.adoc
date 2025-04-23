@@ -4,6 +4,8 @@ This document describes the relevant changes between releases of the SDK.
 
 == UNRELEASED
 
+Update to model 4.6.0 and metamodel 1.3.10
+
 New features:
 
 * Go module compatible import path
