@@ -1,5 +1,5 @@
 %global tar_version   4.3.0
-%global import_path   github.com/ovirt/go-ovirt
+%global import_path   github.com/ovirt/go-ovirt/v4
 %global gopath        %{_datadir}/gocode
 %global build_gopath  %{buildroot}/%{gopath}
 

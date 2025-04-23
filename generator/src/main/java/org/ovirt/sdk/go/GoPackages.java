@@ -38,7 +38,7 @@ public class GoPackages {
     private String version;
 
     // root package url prefix
-    private String rootPackageUrlPrefix = "github.com/ovirt/go-ovirt";
+    private String rootPackageUrlPrefix = "github.com/ovirt/go-ovirt/v4";
 
     public void setRootPackageUrlPrefix(String newRootPackageUrlPrefix) {
         rootPackageUrlPrefix = newRootPackageUrlPrefix;
